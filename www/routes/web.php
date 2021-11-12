@@ -11,4 +11,5 @@ Route::resource('products',ProductController::class);
 Route::resources([
     'productsx'=>ProductController::class,
     'productsx2'=>ProductController::class,    
+    'productsx3'=>ProductController::class,
 ]);
