@@ -13,7 +13,7 @@
                 src="{{asset("logo.png")}}" alt="Logo"></a><br>Laravel 8.x xxx CRUD from Scratch
     </div>
 
-    @yield('contentx')
+    @yield('contentxx')
 </div>
 
 </body>
